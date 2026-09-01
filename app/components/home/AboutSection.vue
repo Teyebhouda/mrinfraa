@@ -110,7 +110,7 @@ onUnmounted(() => { if (observer) observer.disconnect() })
     <!-- Description avec bordure gauche -->
     <template #description>
       <div class="flex gap-5 mt-6">
-        <div class="w-0.5 bg-gradient-to-b from-primary to-transparent flex-shrink-0 rounded-full"></div>
+        <div class="w-0.5 bg-linear-to-b from-primary to-transparent flex-shrink-0 rounded-full"></div>
         <p class="text-gray-500 dark:text-gray-400 text-lg leading-relaxed">
           {{ props.data?.description }}
         </p>
