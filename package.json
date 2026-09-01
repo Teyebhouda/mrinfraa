@@ -20,6 +20,7 @@
     "@resvg/resvg-js": "^2.6.2",
     "@tailwindcss/vite": "^4.1.17",
     "axios": "^1.13.6",
+    "better-sqlite3": "^12.11.1",
     "nodemailer": "^8.0.4",
     "nuxt": "^4.2.2",
     "nuxt-ai-ready": "^1.1.2",
