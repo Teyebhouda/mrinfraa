@@ -22,7 +22,7 @@
     "axios": "^1.13.6",
     "nodemailer": "^8.0.4",
     "nuxt": "^4.2.2",
-    "nuxt-ai-ready": "^1.1.2",
+    "nuxt-ai-ready": "^2.0.1",
     "nuxt-og-image": "^6.3.2",
     "nuxt-skew-protection": "^1.1.1",
     "resend": "^6.9.4",
